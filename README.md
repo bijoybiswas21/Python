@@ -3,7 +3,8 @@
 
 
 <h2 align = "center">learn Python Ai and Data Science</h2>
-
+<br> <img src="[![image](https://github.com/user-attachments/assets/aa32c723-4977-4951-897b-0277b1cf468a)](https://www.geekpedia.com/wp-content/uploads/2024/01/SQL-and-Python-in-Data-Science-1024x585.jpg)
+" alt="" width="800px" height="400px">
 
 
 <!-- Shield Badges -->
