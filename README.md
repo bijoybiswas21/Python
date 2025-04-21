@@ -1,18 +1,16 @@
-# Python Coding Interview Questions With Answers - 2025
+
 ## Master Essential Python Concepts and Ace Your Next Technical Interview
 <!-- Feature Image -->
 | ![Interview Photo](https://github.com/Tanu-N-Prabhu/Python/blob/f00cc0bfb9fbbf7482559d0ea19ae4b1d284e5af/Img/sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg) | 
 |:--:| 
 | Photo by <a href="https://unsplash.com/@officestock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sebastian Herrmann</a> on <a href="https://unsplash.com/photos/four-men-looking-to-the-paper-on-table-O2o1hzDA7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>|
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)
 
 <!-- Content-->
 
 # 📢 Stay Connected:
 
-🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
-📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
+
 💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
 
 
