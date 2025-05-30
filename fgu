@@ -1,16 +1,1 @@
-net stop wuauserv
-net stop cryptSvc
-net stop bits
-net stop msiserver
-ren C:\Windows\SoftwareDistribution SoftwareDistribution.old
-ren C:\Windows\System32\catroot2 catroot2.old
-net start wuauserv
-net start cryptSvc
-net start bits
-net start msiserver
-
-Computer Configuration > Administrative Templates > Windows Update
-
-
-REG DELETE "HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate" /f
-REG DELETE "HKCU\Software\Policies\Microsoft\Windows\WindowsUpdate" /f
+Get-WmiObject -Namespace "root\cimv2\mdm\dmmap" -Class MDM_Policy_Config01_Update02 | Remove-WmiObject
