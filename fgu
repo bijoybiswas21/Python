@@ -10,3 +10,7 @@ net start bits
 net start msiserver
 
 Computer Configuration > Administrative Templates > Windows Update
+
+
+REG DELETE "HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate" /f
+REG DELETE "HKCU\Software\Policies\Microsoft\Windows\WindowsUpdate" /f
