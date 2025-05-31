@@ -1,1 +1,10 @@
-https://unstop.com/o/4gx6jpY?lb=tN7k5rg9&utm_medium=Share&utm_source=WhatsApp
+net stop wuauserv
+net stop cryptSvc
+net stop bits
+net stop msiserver
+ren C:\Windows\SoftwareDistribution SoftwareDistribution.old
+ren C:\Windows\System32\catroot2 catroot2.old
+net start wuauserv
+net start cryptSvc
+net start bits
+net start msiserver
