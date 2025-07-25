@@ -1,1 +1,84 @@
-https://unstop.com/o/opICB4q?lb=tN7k5rg9&utm_medium=Share&utm_source=shortUrl
+
+
+> "Design and develop a fully responsive and modern personal portfolio website using only HTML, CSS, and JavaScript. The site should showcase the skills, projects, and personal brand of a BCA student named Bijoy Biswas who specializes in Web Development, Data Structures & Algorithms (DSA), and Artificial Intelligence. The design should follow a clean, professional aesthetic with interactive elements and smooth animations.
+
+The portfolio should include the following sections:
+
+1. Header/Navbar:
+
+Sticky, responsive navigation bar
+
+Logo or name branding (Bijoy Biswas)
+
+Navigation links with smooth scroll behavior
+
+
+
+2. Hero Section:
+
+Fullscreen background (image or gradient)
+
+Name, title (BCA Student | Web Developer)
+
+A short tagline and call-to-action button (e.g., "View My Work")
+
+Profile image or professional avatar
+
+
+
+3. About Me:
+
+Short bio
+
+List of core skills (HTML, CSS, JavaScript, React, Python, etc.)
+
+Optionally add skill bars or icons
+
+
+
+4. Projects Section:
+
+Grid or card layout
+
+Each project should have: title, screenshot/image, description, tech stack, GitHub/demo links
+
+
+
+5. Resume Section:
+
+Download button for resume (PDF)
+
+Timeline or experience layout (optional)
+
+
+
+6. Contact Section:
+
+Contact form (Name, Email, Message) with validation
+
+Social media icons (LinkedIn, GitHub, Instagram)
+
+
+
+7. Footer:
+
+Minimal footer with copyright
+
+Back-to-top button (optional)
+
+
+
+
+Other Features:
+
+Fully responsive (mobile-first design)
+
+JavaScript for interactivity (scroll effects, light/dark mode toggle)
+
+Smooth animations using CSS or libraries like AOS
+
+Clean, semantic HTML structure and organized CSS
+
+
+
+
